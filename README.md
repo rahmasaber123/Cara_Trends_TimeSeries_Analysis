@@ -93,7 +93,7 @@ Here are some of the plots used in the analysis (replace with your actual charts
    
 
 - **Luxury vs Non-Luxury: Average Profit**  
-  ![Luxury vs Non-Luxury](https://github.com/rahmasaber123/Cara_Trends_TimeSeries_Analysis/blob/main/luxuryvsnonluxury.png?raw=true  
+  ![Luxury vs Non-Luxury](https://github.com/rahmasaber123/Cara_Trends_TimeSeries_Analysis/blob/main/luxuryvsnonluxury.png?raw=true  )
 
 - **Weekend vs Weekday Revenue**  
   ![Weekend vs Weekday Revenue](https://github.com/rahmasaber123/Cara_Trends_TimeSeries_Analysis/blob/main/weekendvsweekday.png?raw=true)  
