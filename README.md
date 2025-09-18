@@ -115,7 +115,23 @@ Here are some of the plots used in the analysis (replace with your actual charts
 
 ## 🛠️ Tech Stack  
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
-- **Feature Engineering**  
+- **Feature Engineering**
+  
+---
+
+## ▶️ How to Run the Project  
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/your-username/car-sales-analysis.git
+cd car-sales-analysis
+👩‍💻 Author
+---
+```
+## Rahma Saber
+📧 [your.email@example.com
+]
+🔗 [LinkedIn/GitHub link]
 - **EDA & Visualization**  
 - Jupyter Notebook for analysis  
 
