@@ -51,26 +51,26 @@ The dataset contains the following columns:
 ##  Key Insights  
 
 ### Revenue & Profit Trends  
-- 📉 Overall revenue showed **downward trends** with slight recoveries in **Feb 2020 & 2023–24**.  
-- 💰 Profit margins were **strongly correlated with sale price** (>0.7).  
+-  Overall revenue showed **downward trends** with slight recoveries in **Feb 2020 & 2023–24**.  
+- Profit margins were **strongly correlated with sale price** (>0.7).  
 
 ### Customer Behavior  
-- 👨 Most buyers were **male customers**, slightly ahead of females.  
-- 🎯 Age group **40–50 years** dominated sales, especially in luxury cars.  
+-  Most buyers were **male customers**, slightly ahead of females.  
+- Age group **40–50 years** dominated sales, especially in luxury cars.  
 
 ### Product Performance  
-- 🚘 **S-Class dominated revenue & profit**, followed by C-Class, GLC, and E-Class.  
-- 🏆 **Toyota, BMW, and Audi** were strong performers overall.  
-- 📉 Newer models (2020–23) showed a **downfall in revenue** compared to 2018–19.  
+-  **S-Class dominated revenue & profit**, followed by C-Class, GLC, and E-Class.  
+-  **Toyota, BMW, and Audi** were strong performers overall.  
+- Newer models (2020–23) showed a **downfall in revenue** compared to 2018–19.  
 
 ### Discounts & Profitability  
 - Higher discounts → Lower profit margins.  
 - Customers responded to discounts, but **volume gains didn’t fully offset profit loss**.  
 
 ### Regional & Seasonal Insights  
-- 🌎 Regions like **Pennsylvania** performed consistently.  
-- 🌸 Seasons had **similar profit distributions**, with spring slightly leading.  
-- 📅 Weekdays (esp. Monday) generated **higher revenue than weekends**.  
+-  Regions like **Pennsylvania** performed consistently.  
+-  Seasons had **similar profit distributions**, with spring slightly leading.  
+-  Weekdays (esp. Monday) generated **higher revenue than weekends**.  
 
 ---
 
@@ -88,21 +88,20 @@ The dataset contains the following columns:
 
 Here are some of the plots used in the analysis (replace with your actual charts):  
 
-- **Monthly Revenue & Profit Trends**  
-  ![Monthly Revenue](images/monthly_revenue.png)  
-  ![Monthly Profit](images/monthly_profit.png)  
+- **Top 10 Car Makes by Profit**  
+  ![Top 10 Car Makes by Profit](https://github.com/rahmasaber123/Cara_Trends_TimeSeries_Analysis/blob/main/Top_Cars_Revenue.png?raw=true)  
+   
 
-- **Revenue by Car Model**  
-  ![Top Models](images/top_models.png)  
+- **Luxury vs Non-Luxury: Average Profit**  
+  ![Luxury vs Non-Luxury](https://github.com/rahmasaber123/Cara_Trends_TimeSeries_Analysis/blob/main/luxuryvsnonluxury.png?raw=true  
 
-- **Profit Margin by Car Make**  
-  ![Profit Margin](images/profit_margin.png)  
+- **Weekend vs Weekday Revenue**  
+  ![Weekend vs Weekday Revenue](https://github.com/rahmasaber123/Cara_Trends_TimeSeries_Analysis/blob/main/weekendvsweekday.png?raw=true)  
 
-- **Customer Age vs Sale Price (Hexbin)**  
-  ![Age vs Sale Price](images/age_vs_sale_price.png)  
+- **Revenue & Profit by Car Year**  
+  ![Revenue & Profit by Car Year](https://github.com/rahmasaber123/Cara_Trends_TimeSeries_Analysis/blob/main/Revenue_Profit_CarYear.png?raw=true)  
 
-- **Luxury vs Non-Luxury Comparison**  
-  ![Luxury vs Non-Luxury](images/luxury_nonluxury.png)  
+ 
 
 ---
 
@@ -123,17 +122,15 @@ Here are some of the plots used in the analysis (replace with your actual charts
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/car-sales-analysis.git
+git clone https://github.com/rahmasaber123/Cara_Trends_TimeSeries_Analysis.git
 cd car-sales-analysis
-👩‍💻 Author
+
 ---
 ```
-## Rahma Saber
-📧 [your.email@example.com
-]
-🔗 [LinkedIn/GitHub link]
-- **EDA & Visualization**  
-- Jupyter Notebook for analysis  
+#  Author
+## Eng Rahma Saber Abbas
+📧 [rhmtsabr03@gmail.com]
+
 
 ---
 
